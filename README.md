@@ -1,5 +1,5 @@
 # 👋🏾 Hello!
-#### I am @SameeraMurthy.
+#### I am @SameeraMurthy (he/him).
 #### I mostly work with Web Development, and know NodeJS, PHP, and Python.
 
 #### Learning:
