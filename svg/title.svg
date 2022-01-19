@@ -4,7 +4,7 @@
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="300" height="100">
     <defs>
-     <style type="text/css">@import url('https://fonts.googleapis.com/css2?family=Outfit'); * {font-family: Outfit} </style>
+     <style type="text/css">@import url('https://fonts.googleapis.com/css2?family=Outfit'); * {font-family: Outfit, sans-serif} </style>
 </defs>
   <text font-size="72" x="15" y="72">
     <tspan fill="#1e9off">Sameer</tspan>
