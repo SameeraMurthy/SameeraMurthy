@@ -1,6 +1,6 @@
 <br/>
 <p align="center"><img src="./output/name.png"/></p>
-<h4 align="center">@SameeraMurthy</h4>
+<h3 align="center">@SameeraMurthy</h3>
 <p align="center">Planning my next project.</p>
 
 <hr/>
