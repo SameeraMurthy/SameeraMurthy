@@ -1,0 +1,26 @@
+{
+  "name": "SameeraMurthy",
+  "version": "1.0.0",
+  "description": "#### Learning: - C++ - OCR Text Recognition - AR & AI",
+  "main": "app.js",
+  "dependencies": {
+    "custom-fonts-in-emails": "^4.0.2",
+    "text-to-svg": "^3.1.5",
+    "text2png": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SameeraMurthy/SameeraMurthy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SameeraMurthy/SameeraMurthy/issues"
+  },
+  "homepage": "https://github.com/SameeraMurthy/SameeraMurthy#readme"
+}
