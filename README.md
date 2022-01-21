@@ -1,10 +1,11 @@
 <br/>
-<p align="center"><img height="72" src="./output/nam.svg"/></p>
+<p align="center"><img height="68" src="./output/nam.svg"/></p>
 <h3 align="center">@SameeraMurthy</h3>
 <p align="center">Planning my next project. <br/><br/>
 <a align="center" href="https://github.com/flowshade"><img src="https://avatars.githubusercontent.com/u/77216494?s=40&v=4"/></a>
+<br/>
+_ _ _ _
 </p>
-<hr/>
 <br/>
 <p align="center">
 	<img height="40"src="https://img.shields.io/badge/--171717?logo=javascript&style=for-the-badge"/>
