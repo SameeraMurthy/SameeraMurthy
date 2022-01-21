@@ -1,20 +1,27 @@
 <br/>
-<p align="center"><img src="./output/name.png"/></p>
+<p align="center"><img src="./output/nam.svg"/></p>
 <h3 align="center">@SameeraMurthy</h3>
 <p align="center">Planning my next project.</p>
-
+<a align="center"href="https://github.com/flowshade"><img src="https://avatars.githubusercontent.com/u/77216494?s=40&v=4"/></a>
 <hr/>
 <br/>
-<p align="center"><img src="./output/stats.png"/></p>
-<br/>
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="35px"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="35px"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="35px"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" height="35px"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="35px"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="35px"/>
+	<img height="40"src="https://img.shields.io/badge/--171717?logo=javascript&style=for-the-badge"/>
+	<img height="40"src="https://img.shields.io/badge/--181818?logo=nodedotjs&style=for-the-badge"/>
+	<img height="40"src="https://img.shields.io/badge/--181818?logo=html5&style=for-the-badge"/>
+	<img height="40"src="https://img.shields.io/badge/--181818?logo=python&style=for-the-badge&logoColor=blue"/>
+	<br>
 </p>
+
+<p align="center">
+	<img height="40"src="https://img.shields.io/badge/--171717?logo=lit&style=for-the-badge&logoColor=dodgerblue"/>
+	<img height="40"src="https://img.shields.io/badge/--171717?logo=tailwindcss&style=for-the-badge"/>
+	<img height="40"src="https://img.shields.io/badge/--171717?logo=svelte&style=for-the-badge"/>
+	<img height="40"src="https://img.shields.io/badge/--171717?logo=react&style=for-the-badge"/><br/><br/>
+	- - - -
+</p>
+
+<br>
+<p align="center"><img src="./output/stats.png"/></p>
+
 <img src="https://github-readme-stats.vercel.app/api?username=SameeraMurthy&show_icons=true&theme=dark&title_color=dodgerblue&icon_color=dodgerblue&hide_border=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeramurthy&theme=dark&title_color=dodgerblue&layout=compact&hide_border=true"/>
