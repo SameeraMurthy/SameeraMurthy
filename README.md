@@ -1,8 +1,9 @@
 <br/>
-<p align="center"><img src="./output/nam.svg"/></p>
+<p align="center"><img height="72" src="./output/nam.svg"/></p>
 <h3 align="center">@SameeraMurthy</h3>
-<p align="center">Planning my next project.</p>
-<a align="center"href="https://github.com/flowshade"><img src="https://avatars.githubusercontent.com/u/77216494?s=40&v=4"/></a>
+<p align="center">Planning my next project. <br/><br/>
+<a align="center" href="https://github.com/flowshade"><img src="https://avatars.githubusercontent.com/u/77216494?s=40&v=4"/></a>
+</p>
 <hr/>
 <br/>
 <p align="center">
@@ -22,6 +23,7 @@
 </p>
 
 <br>
-<p align="center"><img src="./output/stats.png"/></p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=SameeraMurthy&show_icons=true&theme=dark&title_color=dodgerblue&icon_color=dodgerblue&hide_border=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeramurthy&theme=dark&title_color=dodgerblue&layout=compact&hide_border=true"/>
+<p align="center"><img src="./output/stats.png"/><br/><br/>
+<!--<img src="https://github-readme-stats.vercel.app/api?username=SameeraMurthy&show_icons=true&theme=dark&title_color=dodgerblue&icon_color=dodgerblue&hide_border=true"/>-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeramurthy&theme=dark&title_color=dodgerblue&layout=compact&hide_border=true"/>
+</p>
